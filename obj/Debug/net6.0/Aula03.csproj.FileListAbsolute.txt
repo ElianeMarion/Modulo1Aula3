@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\bin\Debug\net6.0\Aula03.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\bin\Debug\net6.0\Aula03.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\bin\Debug\net6.0\Aula03.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\bin\Debug\net6.0\Aula03.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\bin\Debug\net6.0\Aula03.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\refint\Aula03.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\Aula03.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula03\obj\Debug\net6.0\ref\Aula03.dll
